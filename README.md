@@ -84,7 +84,3 @@ Understand what makes a password strong and test it against password strength to
 - Weak passwords can be cracked **very quickly**
 - Strong passwords significantly improve security
 - The best approach is using **long, random, and unique passwords**
-
-
-```bash
-BlueSky!Runs@Night2026
